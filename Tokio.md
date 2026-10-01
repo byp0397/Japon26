@@ -27,7 +27,7 @@ Pincha en los enlaces para ver el itinerario (si aplica)
 7. Ver el Toshogu shrine
 8. Ver el Futarasan shrine
 9. Ver la villa imperial Tamozawa
-### Precio:
+### Precio
 No disponible: total en torno a 3500 yen pp (sin comida)
 ### Transporte entre templos:
 [Existe](https://tobu-japantrip-tickets.com/) un pase de Nikko para ir en bus entre la estación de tren y los templos.
