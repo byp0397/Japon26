@@ -6,7 +6,7 @@
 <h1 id="transportes"><a href="https://japantravel.navitime.com/en/area/jp/route/?from=header-dropdown">Transportes</a></h1>
 <p>Nada más llegar a NRT hay que sacar la tarjeta  <em>Integrated Circuit</em> (IC) <strong><a href="https://www.jreast.co.jp/es/multi/pass/suica.html">SUICA</a></strong></p>
 <blockquote>
-<p>Para comprar/recargar <strong>SUICA solo acepta yenes en efectivo.</strong></p>
+<p>Para comprar/recargar la tarjeta física <strong>SUICA solo acepta yenes en efectivo.</strong></p>
 </blockquote>
 <p><strong>Trenes bala rechazan SUICA</strong></p>
 <p>Ve pinchando en los enlaces y aparece la información de las líneas y sus precios en tiempo real.</p>
