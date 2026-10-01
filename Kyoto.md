@@ -1,5 +1,5 @@
 # Kyoto
-Pincha en los enlaces para ver los itinerarios
+Te quiero mucho.
 ## [Castillo de Himeji](https://himeji-kanko.book.ntmg.jp/products/aa7ca70e-89ef-5b92-a2de-41aac759e879?lng=en-US) (F)
 > No tiene pinta de que se pete mucho pero yo compraría todo por internet. Hay que pedirle a Chicho que llame para reservarnos la comida y el té.
 ### Plan:
