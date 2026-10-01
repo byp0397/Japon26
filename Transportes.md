@@ -6,7 +6,7 @@
 <h1 id="transportes"><a href="https://japantravel.navitime.com/en/area/jp/route/?from=header-dropdown">Transportes</a></h1>
 <p>Nada más llegar a NRT hay que sacar la tarjeta  <em>Integrated Circuit</em> (IC) <strong><a href="https://www.jreast.co.jp/es/multi/pass/suica.html">SUICA</a></strong></p>
 <blockquote>
-<p>Para comprar/recargar ** SUICA solo acepta yenes en efectivo.**</p>
+<p>Para comprar/recargar <strong>SUICA solo acepta yenes en efectivo.</strong></p>
 </blockquote>
 <p><strong>Trenes bala rechazan SUICA</strong></p>
 <p>Ve pinchando en los enlaces y aparece la información de las líneas y sus precios en tiempo real.</p>
@@ -20,3 +20,6 @@
 <h2 id="kyoto---himeji---kyoto"><a href="https://japantravel.navitime.com/en/area/jp/route/result/?start=00001756&amp;goal=00007808&amp;start_name=Kyoto&amp;goal_name=Himeji&amp;cid=&amp;from=route_result_search_box&amp;date_time=2026-10-18T10:58">Kyoto - Himeji - Kyoto</a></h2>
 <p>Te echo de menos :(</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNjMzMzM4MzBdfQ==
+-->
