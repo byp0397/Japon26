@@ -1,10 +1,14 @@
 # Kyoto
 Pincha en los enlaces para ver los itinerarios
 ## [Castillo de Himeji](https://himeji-kanko.book.ntmg.jp/products/aa7ca70e-89ef-5b92-a2de-41aac759e879?lng=en-US) (F)
+> No tiene pinta de que se pete mucho pero yo compraría todo por internet. Hay que pedirle a Chicho que llame para reservarnos la comida y el té.
 ### Plan:
-1. Llegar a Himeji a las 09:30 para poder apuntarnos al tour de las 10:00.
-2. Visitar el castillo con guia o solitos con audioguia
-3. Visitar los jardines de Koko-en (5 minutos andando)
+1. Llegar a Himeji a las 09:30 para poder apuntarnos al tour de las 10:00. 
+3. Visitar el castillo con guia o solitos con audioguia
+4. Visitar los jardines de Koko-en (5 minutos andando desde el castillo)
+5. Comer [allí](https://www.himeji-machishin.jp/ryokka/kokoen/en/inquiry/index.html)
+   > La ceremonia del té merece la pena.
+   > Ambas cosas se pueden reservar.
 
 ### Cómo llegar:
 [Andar](https://maps.app.goo.gl/ummzJh84EB35HYC67) desde la estación de tren de Himeji hasta la entrada del castillo.
