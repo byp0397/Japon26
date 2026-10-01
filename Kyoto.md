@@ -6,9 +6,9 @@ Te quiero mucho.
 1. Llegar a Himeji a las 09:30 para poder apuntarnos al tour de las 10:00. 
 3. Visitar el castillo con guia o solitos con audioguia
 4. Visitar los jardines de Koko-en (5 minutos andando desde el castillo)
-5. Comer [allí](https://www.himeji-machishin.jp/ryokka/kokoen/en/inquiry/index.html)
-   > La ceremonia del té merece la pena.
-   > Ambas cosas se pueden reservar.
+5. Comer en el [restaurante del jardín](https://www.himeji-machishin.jp/ryokka/kokoen/en/inquiry/index.html)
+   > También hay una casa sobre La ceremonia del té.
+   > Solo se puede reservar la comida en el restaurante.
 
 ### Cómo llegar:
 [Andar](https://maps.app.goo.gl/6t51XoimhS54hpF7A) desde la estación de tren de Himeji hasta la oficina de venta de tickets para apuntarnos al tour.
