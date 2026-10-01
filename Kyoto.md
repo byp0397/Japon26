@@ -1,7 +1,7 @@
 # Kyoto
 Te quiero mucho.
 ## [Castillo de Himeji](https://himeji-kanko.book.ntmg.jp/products/aa7ca70e-89ef-5b92-a2de-41aac759e879?lng=en-US) (F)
-> No tiene pinta de que se pete mucho pero yo compraría todo por internet. Hay que pedirle a Chicho que llame para reservarnos la comida y el té.
+> No tiene pinta de que se pete mucho pero [yo compraría](https://himeji-kanko.book.ntmg.jp/products/be46710e-a77c-597d-b319-608c21aa60ce?lng=en-US) todo por internet. Hay que pedirle a Chicho que llame para reservarnos la comida y el té.
 ### Plan:
 1. Llegar a Himeji a las 09:30 para poder apuntarnos al tour de las 10:00. 
 3. Visitar el castillo con guia o solitos con audioguia
@@ -11,7 +11,8 @@ Te quiero mucho.
    > Ambas cosas se pueden reservar.
 
 ### Cómo llegar:
-[Andar](https://maps.app.goo.gl/ummzJh84EB35HYC67) desde la estación de tren de Himeji hasta la entrada del castillo.
+[Andar](https://maps.app.goo.gl/6t51XoimhS54hpF7A) desde la estación de tren de Himeji hasta la oficina de venta de tickets para apuntarnos al tour.
+> Nosotros ya tendremos las entradas compradas por internet.
 ### Horario:
 09:00–17:00（entry 16:00)
 ### Precio:
