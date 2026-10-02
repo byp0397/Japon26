@@ -1,11 +1,12 @@
 # Tokio
 Pincha en los enlaces para ver el itinerario (si aplica)
 ## [Kamakura](https://www.japan-guide.com/e/e3121_kamakura_full.html#section_activities) (F)
-- **09:00** - Llegamos a la **Estación de Kamakura** con Japan Rail Pass (1 hora).
-- **10:00** - En la Estación de Kamakura cogemos un tranvía a **Hase Station** con el **Enoshima Electric Railway**; 200 yenes aprox. (5 min).
-- **10:15** - **Hasedera Temple**: 5 min andando.
 
-### 🥾 Daibutsu Hiking Trail
+- **09:00** - Coger el JS a la **Estación de Kita-Kamakura** desde Shibuya.
+- **10:00** - En la Estación de Kita-kamakura nos encontraremos con Enrique del [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura?howManyAdults=1&howManyChildren=NaN&beginsAt=2026-10-18&endsAt=2026-10-18).
+
+### Itinerario
+
 
 - **10:40** - **Gran Buda (Daibutsu)**: 10 min andando.  
   - Entrada: 300 yenes + 50 yenes para el interior.
