@@ -30,6 +30,8 @@ Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en
 7. Ver el Toshogu shrine
 8. Ver el Futarasan shrine
 9. Ver la villa imperial Tamozawa
+
+> **Opcional**: coger un bus a las cascadas Kegon.
 ### Precio
 No disponible: total en torno a 3500 yen pp (sin comida)
 ### Transporte entre templos:
