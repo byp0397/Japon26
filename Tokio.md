@@ -20,7 +20,7 @@ Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en
   > Aquí está la estatua de Minamoto Yoritomo.
 
 ## [Nikko](https://www.japan-guide.com/e/e3822_nikko_town_full.html) (F)
-### Plan:
+### Plan
 1. Llegar a Tobu Nikko Station
 2. [Andar](https://maps.app.goo.gl/oaroSQJDJ9GhnVJC8) 20 mins hasta el puente Shinkyo (es sagrado!)
 3. Entrar en el jardín Shoyoen (pertenece al templo de Rinnoji)
