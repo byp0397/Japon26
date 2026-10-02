@@ -1,21 +1,23 @@
 # Tokio
 Pincha en los enlaces para ver el itinerario (si aplica)
 ## [Kamakura](https://www.japan-guide.com/e/e3121_kamakura_full.html#section_activities) (F)
+Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura?howManyAdults=1&howManyChildren=NaN&beginsAt=2026-10-18&endsAt=2026-10-18).
+### Plan
+- Coger el JR hasta la **Estación de Kita-Kamakura** desde Shibuya.
+- En la estación nos encontraremos con el guía (**Enrique**).
+- Seguiremos el recorrido con Enrique por los siguientes sitios:
+  1. **Engakuji Temple** — Visita exterior. Templo budista de casi 8 siglos de antigüedad, con 2 tesoros nacionales.
+  2. **Kamakura Station** — Visita exterior. Estación del JR y terminal del tranvía Enoden, con más de 100 años de historia. El tranvía conserva su apariencia original y es uno de los atractivos turísticos de Kamakura.
+  3. **Hase Station** — Visita exterior. Recorrido por los suburbios de Kamakura, con tiendas y calles que nos permitirán conocer la vida cotidiana de los japoneses.
+  4. **Kotoku-in** — Visita exterior. Templo budista que alberga un Buda de bronce de 800 años de antigüedad.
+    - Entrada: 300 yenes + 50 yenes para el interior.
+    - Horario: 08:00–17:00.
+  5. **Yuigahama** — Visita exterior. Una de las playas más concurridas de Japón y la más cercana a Tokio.
 
-- **09:00** - Coger el JS a la **Estación de Kita-Kamakura** desde Shibuya.
-- **10:00** - En la Estación de Kita-kamakura nos encontraremos con Enrique del [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura?howManyAdults=1&howManyChildren=NaN&beginsAt=2026-10-18&endsAt=2026-10-18).
-
-### Itinerario
-
-
-- **10:40** - **Gran Buda (Daibutsu)**: 10 min andando.  
-  - Entrada: 300 yenes + 50 yenes para el interior.
-  - Horario: 08:00–17:00.
-- **12:00** - **Opcional: Zeniarai Benten Shrine**: 30 min andando.
-- **Descansar en:** **Genjiyama Park**, junto a la estatua de Minamoto Yoritomo.
-
-- **14:00** - **Tsurugaoka Hachimangu Shrine**: 30 min.
-- **🍜 Comer en:** **Komachidori Street**, de camino de nuevo a Kamakura Station.
+- **🍜 Comer en:** **Komachidori Street**, cerca de Kamakura Station.
+- **Tsurugaoka Hachimangu Shrine**: 30 min.
+- **Opcional: Zeniarai Benten Shrine** y **Genjiyama Park**: 30 min andando.
+  > Aquí está la estatua de Minamoto Yoritomo.
 
 ## [Nikko](https://www.japan-guide.com/e/e3822_nikko_town_full.html) (F)
 ### Plan:
