@@ -26,9 +26,18 @@ Ambos son solo en inglés y duran 1:45. No se pueden reservar. **Solo admiten a 
 Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) solo en inglés.
 ## Osaka (F)
 ## [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html) (H)
-### Plan
+### Plan A
 * Existen [freetours](https://www.civitatis.com/es/kioto/free-tour-kioto/#punto-de-encuentro) que deberíamos usar y tienen buena pinta.
 * Se puede ver algún [combate de sumo](https://www.getyourguide.com/es-es/kioto-l96826/kioto-espectaculo-de-sumo-con-cena-de-sushi-y-experiencia-interactiva-t1294774/?ranking_uuid=433e9a49-7cad-40f6-9950-a8c47664d810&q=Tours%2C+Kioto)
+### Plan B
+1. Comenzar en el templo de Kiyomizudera
+   > Interesa verlo temprano por la mañana porque se peta.
+2. Visitar el distrito Higashiyama
+   > Ir a las escaleras *Sannenzaka* y ver las calles de tiendas del distrito para luego pasar por las escaleras *Ninenzaka* hacia el siguiente punto.
+3. Visitar el templo Kodaiji
+4. Visitar el barrio de *Gion*
+   > Entrar en la calle *Hanami-koji*. Cruzar la avenida *Shijo* y continuar por el distrito *Shirakawa*.
+   > Podemos cenar en *Gion* o *Pontocho*
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 
 <!--stackedit_data:
