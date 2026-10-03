@@ -33,7 +33,7 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 1. Comenzar en el templo de *Kiyomizudera*
    > Interesa verlo temprano por la mañana porque se peta.
 2. Visitar el distrito *Higashiyama*
-   > Ir a las escaleras *Sannenzaka* y ver las calles de tiendas del distrito para luego pasar por las escaleras *Ninenzaka* hacia el siguiente punto.
+   > Ir a las escaleras *Sannenzaka* y ver las calles de tiendas del distrito para luego pasar por las escaleras *Ninenzaka* hacia *Kodaiji*.
 3. Visitar el templo *Kodaiji*
 4. Visitar el barrio de *Gion*
    > Entrar en la calle *Hanami-koji*. Cruzar la avenida *Shijo* y continuar por el distrito *Shirakawa*.
