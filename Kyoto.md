@@ -26,6 +26,9 @@ Ambos son solo en inglés y duran 1:45. No se pueden reservar. **Solo admiten a 
 Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) solo en inglés.
 ## Osaka (F)
 ## [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html) (H)
+### Plan
+* Existen [freetours](https://www.civitatis.com/es/kioto/free-tour-kioto/#punto-de-encuentro) que deberíamos usar y tienen buena pinta.
+* Se puede ver algún [combate de sumo](https://www.getyourguide.com/es-es/kioto-l96826/kioto-espectaculo-de-sumo-con-cena-de-sushi-y-experiencia-interactiva-t1294774/?ranking_uuid=433e9a49-7cad-40f6-9950-a8c47664d810&q=Tours%2C+Kioto)
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 
 <!--stackedit_data:
