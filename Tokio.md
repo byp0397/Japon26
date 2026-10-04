@@ -58,6 +58,14 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 
 ## [Western Tokio](https://www.japan-guide.com/e/e3051_west_tokyo_full.html) (H)
 * Provisional: subida al observatorio de la ciudad en el [Ayuntamiento de Tokio](https://zaimu-metro-tokyo.j-server.com/LUCAIZAIMU/ns/tl.cgi/https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou?SLANG=ja&TLANG=en&XMODE=0&XCHARSET=UTF-8&XJSID=0)
+* Idea para el landing day: hacer un [freetour](https://www.guruwalk.com/es/walks/55992-1-resenado-shibuya-harajuku-ajetreo-bullicio-y-cultura) por el barrio que nos lleva al *Meiji shrine*.
+### Plan
+1. Ir al *Meiji temple*.
+   > Ver el *pozo de Kiyomasa*
+2. Pasar por jardín *Yoyogui*
+3. Ir a la calle *Takeshita* (muchedumbre y tienditas)
+4. Llegar al barrio de *Shibuya* y ver *Spain Slope*, *Tokyu Hands* y *Center Gai*.
+5. Ver la estatua de *Hachiko* y el mega cruce del barrio.
 
 
 <!--stackedit_data:
