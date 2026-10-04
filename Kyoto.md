@@ -38,6 +38,9 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 4. Visitar el barrio de *Gion*
    > Entrar en la calle *Hanami-koji*. Cruzar la avenida *Shijo* y continuar por el distrito *Shirakawa*.
    > Podemos cenar en *Gion* o *Pontocho*
+
+### Plan C
+
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 
 <!--stackedit_data:
