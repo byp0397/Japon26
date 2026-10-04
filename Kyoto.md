@@ -40,6 +40,21 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
    > Podemos cenar en *Gion* o *Pontocho*
 
 ### Plan C
+1. Visitar *Fushimi Inari Taisha* a primera hora de la mañana.
+   > **Imprescindible**. Conviene ir temprano para evitar las horas de mayor afluencia.
+2. Ir desde la estación de *Kyoto* hasta la parada de autobús *Ginkakuji-michi*.
+   > Hay un autobús directo desde la estación de *Kyoto*.
+3. Visitar con calma el templo *Ginkaku-ji*.
+4. Recorrer el *Paseo de la Filosofía* hasta llegar al templo *Nanzen-ji*.
+   > Opcionalmente, podemos desviarnos para visitar el santuario *Heian-jingu*.
+5. Continuar por *Keage Incline* hasta el parque *Maruyama*.
+6. Visitar el templo *Kodaiji* y continuar hasta *Kiyomizudera*.
+7. Bajar por las calles *Sannenzaka* y *Ninenzaka* en dirección al barrio de *Gion*.
+8. Recorrer la calle *Hanami-koji*.
+9. Hacer el [free tour por el barrio de Gion](https://www.civitatis.com/es/kioto/free-tour-barrio-gion/?aid=100&cmp=es_ES_Nonbrand&cmpint=_FreeToursINTL_Global_DSA&gclsrc=aw.ds&gad_source=1&gad_campaignid=14306546091&gbraid=0AAAAADSEWH3omZe8t0vNhDIyIl_JpX2P2&gclid=Cj0KCQjw8ofWBhCHARIsANBj4LtkStiwRcBlWXNJF8WYmwWutt8oKXjXZ5MQaJhQ6IFCjYxOwZfRakIaAhPDEALw_wcB).
+10. Terminar el día en *Pontocho*.
+    > Desde allí se tarda unos 15 minutos en autobús en volver al lugar de inicio.
+
 
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 
