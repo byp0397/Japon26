@@ -57,7 +57,4 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 
 
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDM4ODA4N119
--->
+* Existe un [free tour por Arashiyama](https://www.guruwalk.com/es/walks/66782-kioto-recorrido-a-pie-por-arashiyama-patrimonio-de-la-humanidad-de-la-unesco-con-entrada-incluida) con entrada incluida.
