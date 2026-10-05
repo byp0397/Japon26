@@ -7,3 +7,12 @@ El móvil de Pedrito no tiene capacidad e-SIM, así que propongo que usemos el m
 * [e-SIM-Pin.com](https://www.esim-pin.com/en/plans?planCode=AU_12D_F_UN): 26.5€
 * [HolaFly](
 https://esim.holafly.com/es/esim-japon/?selectedDays=12&startDate=2026-10-16&endDate=2026-10-27): 39.9€
+# Cambio de divisa
+Revolut ofrece el mejor cambio que he visto de momento.
+### Online
+* Ir a un cajero en Tokio y sacar yenes, el cambio se hace automaticamente.
+  > Hay que usar una tarjeta de Revolut. Idealmente asociada a la cuenta comun.
+  > Ojo que hay que rechazar el tipo de cambio que ofrezca el cajero.
+### Dinero metálico en España
+* Los bancos usan ratios de cambio un poco abusivos.
+  > Recomiendo sacar 200 € en yenes a través de nuestros bancos normales.
