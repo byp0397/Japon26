@@ -56,7 +56,7 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 > En algún momento del viaje hay que incluir la visita a *Fushimi Inari Taisha*. Es **imprescindible**.
 
 
-## https://www.japan-guide.com/e/e3950_arashiyama_half.html (H)
+## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 ### Plan
 1. Coger a las 09:09 un autobús o tranvía en dirección a la estación *Saga-Arashiyama*.
 2. Andar 10 minutos hasta el punto de encuentro del free tour.
