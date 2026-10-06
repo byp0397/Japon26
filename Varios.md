@@ -7,6 +7,7 @@ El móvil de Pedrito no tiene capacidad e-SIM, así que propongo que usemos el m
 * [e-SIM-Pin.com](https://www.esim-pin.com/en/plans?planCode=AU_12D_F_UN): 26.5€
 * [HolaFly](
 https://esim.holafly.com/es/esim-japon/?selectedDays=12&startDate=2026-10-16&endDate=2026-10-27): 39.9€
+* StaffTravel eSim
 # Cambio de divisa
 Revolut ofrece el mejor cambio que he visto de momento.
 ### Online
