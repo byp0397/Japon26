@@ -56,5 +56,27 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 > En algún momento del viaje hay que incluir la visita a *Fushimi Inari Taisha*. Es **imprescindible**.
 
 
-## Nara (?) y [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
-* Existe un [free tour por Arashiyama](https://www.guruwalk.com/es/walks/66782-kioto-recorrido-a-pie-por-arashiyama-patrimonio-de-la-humanidad-de-la-unesco-con-entrada-incluida) con entrada incluida.
+## https://www.japan-guide.com/e/e3950_arashiyama_half.html (H)
+### Plan
+1. Coger a las 09:09 un autobús o tranvía en dirección a la estación *Saga-Arashiyama*.
+2. Andar 10 minutos hasta el punto de encuentro del free tour.
+   > El tour es de 10:00 a 11:30.
+3. Al acabar el free tour, visitar el *Monkey Park*.
+   > La entrada cuesta 800 yenes y **solo se puede pagar en efectivo**.
+4. Dirigirnos hacia la estación de *Arashiyama* y comer por el camino o por la zona.
+
+### Plan opcional
+> Si estamos cansados, volvemos al centro. Si no, continuamos con este plan:
+
+1. Alquilar unas bicicletas.
+   > *HELLO CYCLING* es una buena aplicación, pero solo admite números de teléfono de Japón y de unos pocos países más. Podemos probarla si nuestra eSIM tiene número japonés.
+   > Si no funciona, podemos buscar bicicletas en esta https://kyoto-bicycle.com/en/rental_search.
+2. Ir al templo *Jojakkoji*.
+   > Es uno de los mejores templos para visitar en otoño y tiene aparcamiento para bicicletas.
+3. Visitar el templo *Gio-ji*.
+   > Dejaremos las bicicletas en el templo *Nison-in*. Después ya no hay aparcamientos habilitados, por lo que tendremos que continuar con las bicicletas sin bajarnos de ellas.
+4. Recorrer *Saga-Toriimoto Street* para ver sus casas tradicionales.
+5. Visitar *Otagi Nenbutsuji*.
+6. Volver a la estación para dejar las bicicletas.
+7. Regresar al centro para cenar y dormir.
+
