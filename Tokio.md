@@ -1,7 +1,17 @@
 # Tokio
-Pincha en los enlaces para ver el itinerario (si aplica)
-## [Kamakura](https://www.japan-guide.com/e/e3121_kamakura_full.html#section_activities) (F)
-Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura?howManyAdults=1&howManyChildren=NaN&beginsAt=2026-10-18&endsAt=2026-10-18) el día 18 de octubre.
+## 17 oct [Western Tokio](https://www.japan-guide.com/e/e3051_west_tokyo_full.html) (H)
+* Idea para el landing day: hacer un [freetour](https://www.guruwalk.com/es/walks/55992-1-resenado-shibuya-harajuku-ajetreo-bullicio-y-cultura) por el barrio que nos lleva al *Meiji shrine*.
+### Plan
+1. Ir al *Meiji temple*.
+   > Ver el *pozo de Kiyomasa*
+2. Pasar por jardín *Yoyogui*
+3. Ir a la calle *Takeshita* (muchedumbre y tienditas)
+4. Llegar al barrio de *Shibuya* y ver *Spain Slope*, *Tokyu Hands* y *Center Gai*.
+5. Ver la estatua de *Hachiko* y el mega cruce del barrio.
+6. Subida al observatorio de la ciudad en el [Ayuntamiento de Tokio](https://zaimu-metro-tokyo.j-server.com/LUCAIZAIMU/ns/tl.cgi/https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou?SLANG=ja&TLANG=en&XMODE=0&XCHARSET=UTF-8&XJSID=0)
+
+## 18 oct [Kamakura](https://www.japan-guide.com/e/e3121_kamakura_full.html#section_activities) (F)
+Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura?howManyAdults=1&howManyChildren=NaN&beginsAt=2026-10-18&endsAt=2026-10-18)(**Está comprado**) el día 18 de octubre. 
 ### Plan
 - [Coger el JS](https://japantravel.navitime.com/es/area/jp/route/result/?start=00003544&goal=00008288&start_name=Shibuya&goal_name=Kita-Kamakura&cid=&from=route_result_search_box&date_time=2026-10-18T08%3A30) hasta la **Estación de Kita-Kamakura** desde Shibuya.
 - En la estación nos encontraremos con el guía (**Enrique**).
@@ -18,6 +28,25 @@ Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en
 - **Tsurugaoka Hachimangu Shrine**: 30 min.
 - **Opcional: Zeniarai Benten Shrine** y **Genjiyama Park**: 30 min andando.
   > Aquí está la estatua de Minamoto Yoritomo.
+## 19 oct [Asakusa](https://www.japan-guide.com/e/e3051_asakusa_half.html) (H)
+### Plan
+* Vamos a hacer un [freetour](https://www.guruwalk.com/es/walks/67186-free-tour-asakusa-el-corazon-tradicional-de-tokio?_gl=1*ekadab*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw8ofWBhCHARIsANBj4LuG0FIS7Rs9G6jchKhNVcYM4jM2M7rBUaSS8ZlH7ArbF8rl4oLo5TgaAlF_EALw_wcB&gbraid=0AAAAADMAfcXg7nYROxhjuP0AFdfeGCwN7) de 2 horas por Asakusa
+
+### Continuamos si queremos...
+1. Ir a estación de Asakusa
+2. Ver la puerta *Kaminarimon* y entrar en la calle *Nakamise Dori*.
+3. Ver la calle *Nakamise Dori*. Es de tienditas de comida y souvenirs.
+4. Entrar en el templo *Senso-ji*
+   > Entrada gratuita.
+5. Salir del templo y visitar las calles *Dempoin Street* y *Shin-Nakamise*.
+6. Ir al *parque Sumida*
+  > Podemos subir al [Tokio Skytree](https://en.tokyo-skytree.jp/ticket/) (1800 yen pp online)
+## 19 oct [Asakusa + Hama Rikyu](https://www.japan-guide.com/e/e3051_odaiba_asakusa_full.html) (H)
+> Continuación del plan anterior
+1. **Opcional** Coger el [Tokyo Water Bus](https://www.suijobus.co.jp/en/cruise/?from=asakusa&to=hamarikyu) entre *Asakusa* y el parque *Hama Rikyu*.
+   > Tarda 35 min . Pero la frecuencia de paso es muy baja. Conviene reservarlo. Permite reservarlo con 5 min de antelación.
+2. Dar un paseo por el parque Hama Rikyu.
+3. Parar en la casa del té a descansar.
 
 ## [Nikko](https://www.japan-guide.com/e/e3822_nikko_town_full.html) (F)
 ### Plan
@@ -36,36 +65,10 @@ Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en
 No disponible: total en torno a 3500 yen pp (sin comida)
 ### Transporte entre templos:
 [Existe](https://tobu-japantrip-tickets.com/) un pase de Nikko para ir en bus entre la estación de tren y los templos.
-## [Asakusa](https://www.japan-guide.com/e/e3051_asakusa_half.html) (H)
-### Plan A
-* Existe un [freetour](https://www.guruwalk.com/es/walks/67186-free-tour-asakusa-el-corazon-tradicional-de-tokio?_gl=1*ekadab*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw8ofWBhCHARIsANBj4LuG0FIS7Rs9G6jchKhNVcYM4jM2M7rBUaSS8ZlH7ArbF8rl4oLo5TgaAlF_EALw_wcB&gbraid=0AAAAADMAfcXg7nYROxhjuP0AFdfeGCwN7) de 2 horas por Asakusa
 
-### Plan B
-1. Ir a estación de Asakusa
-2. Ver la puerta *Kaminarimon* y entrar en la calle *Nakamise Dori*.
-3. Ver la calle *Nakamise Dori*. Es de tienditas de comida y souvenirs.
-4. Entrar en el templo *Senso-ji*
-   > Entrada gratuita.
-5. Salir del templo y visitar las calles *Dempoin Street* y *Shin-Nakamise*.
-6. Ir al *parque Sumida*
-  > Podemos subir al [Tokio Skytree](https://en.tokyo-skytree.jp/ticket/) (1800 yen pp online)
-## [Asakusa + Hama Rikyu](https://www.japan-guide.com/e/e3051_odaiba_asakusa_full.html) (H)
-> Continuación del plan B anterior
-1. **Opcional** Coger el [Tokyo Water Bus](https://www.suijobus.co.jp/en/cruise/?from=asakusa&to=hamarikyu) entre *Asakusa* y el parque *Hama Rikyu*.
-   > Tarda 35 min . Pero la frecuencia de paso es muy baja. Conviene reservarlo. Permite reservarlo con 5 min de antelación.
-2. Dar un paseo por el parque Hama Rikyu.
-3. Parar en la casa del té a descansar.
 
-## [Western Tokio](https://www.japan-guide.com/e/e3051_west_tokyo_full.html) (H)
-* Idea para el landing day: hacer un [freetour](https://www.guruwalk.com/es/walks/55992-1-resenado-shibuya-harajuku-ajetreo-bullicio-y-cultura) por el barrio que nos lleva al *Meiji shrine*.
-### Plan
-1. Ir al *Meiji temple*.
-   > Ver el *pozo de Kiyomasa*
-2. Pasar por jardín *Yoyogui*
-3. Ir a la calle *Takeshita* (muchedumbre y tienditas)
-4. Llegar al barrio de *Shibuya* y ver *Spain Slope*, *Tokyu Hands* y *Center Gai*.
-5. Ver la estatua de *Hachiko* y el mega cruce del barrio.
-6. Subida al observatorio de la ciudad en el [Ayuntamiento de Tokio](https://zaimu-metro-tokyo.j-server.com/LUCAIZAIMU/ns/tl.cgi/https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou?SLANG=ja&TLANG=en&XMODE=0&XCHARSET=UTF-8&XJSID=0)
+
+
 
 
 <!--stackedit_data:
