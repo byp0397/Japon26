@@ -24,7 +24,7 @@ Te quiero mucho.
 Existen dos turnos diarios de tour guiado: 10:00 y 13:00.
 Ambos son solo en inglés y duran 1:45. No se pueden reservar. **Solo admiten a 10 turistas por tour**. Cuesta 1500 yenes pp.
 Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) solo en inglés.
-## Osaka y Arashiyama (?)(F)
+
 ## [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html) (H)
 ### Plan A
 * Existen [freetours](https://www.civitatis.com/es/kioto/free-tour-kioto/#punto-de-encuentro) que deberíamos usar y tienen buena pinta.
