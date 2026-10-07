@@ -75,7 +75,7 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 * Aprox 3000 yen.
 
 ### Plan B
-Hacer un [free tour](https://gyg.me/oUI4esAk)
+Hacer un [walking tour](https://gyg.me/oUI4esAk)
 * Precio 19 € pp.
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 ### Plan
