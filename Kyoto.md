@@ -71,9 +71,12 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 7. Ver el templo de *Nigatsudo*
    > Las vistas de *Nara* desde allí son muy buenas.
 8. Ir a *Kasuga Taisha* y verlo
+#### Precio
+* Aprox 3000 yen.
 
 ### Plan B
 Hacer un [free tour](https://gyg.me/oUI4esAk)
+* Precio 19 € pp.
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 ### Plan
 1. Coger a las 09:09 un autobús o tranvía en dirección a la estación *Saga-Arashiyama*.
