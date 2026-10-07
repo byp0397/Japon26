@@ -48,7 +48,7 @@ Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en
 2. Dar un paseo por el parque Hama Rikyu.
 3. Parar en la casa del té a descansar.
 
-## [Nikko](https://www.japan-guide.com/e/e3822_nikko_town_full.html) (F)
+## 20 oct [Nikko](https://www.japan-guide.com/e/e3822_nikko_town_full.html) (F)
 ### Plan
 1. Llegar a Tobu Nikko Station
 2. [Andar](https://maps.app.goo.gl/oaroSQJDJ9GhnVJC8) 20 mins hasta el puente Shinkyo (es sagrado!)
