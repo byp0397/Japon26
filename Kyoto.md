@@ -66,7 +66,6 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 4. Dirigirnos hacia la estación de *Arashiyama* y comer por el camino o por la zona.
 
 ### Plan opcional
-> Si estamos cansados, volvemos al centro. Si no, continuamos con este plan:
 
 1. Alquilar unas bicicletas.
    > *HELLO CYCLING* es una buena aplicación, pero solo admite números de teléfono de Japón y de unos pocos países más. Podemos probarla si nuestra eSIM tiene número japonés.
