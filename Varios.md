@@ -1,6 +1,7 @@
 # Seguro médico
 Japón permite comprar seguros médicos después de haber aterrizado. [Aquí el ejemplo](https://www.jnto.go.jp/emergency/eng/mi_guide.html)
 * De todas formas este es el mejor que he encontrado de momento: [**Atlas JapanSecure**](https://quote.worldtrips.com/AtlasTravel/ChoosePlan)
+* [SafetyWing](https://safetywing.com/nomad-insurance?referenceID=24741554&campaign=tc-native-ad&selectedPlan=NOMAD_INSURANCE_ESSENTIAL): 27 €
 # e-SIM
 El móvil de Pedrito no tiene capacidad e-SIM, así que propongo que usemos el móvil de la supermodelo para pasarle datos a Pedrito si los necesitase. Estas son las mejores opciones que he encontrado:
 * [Ubigi](https://cellulardata.ubigi.com/es/rates-and-coverage/japon-planes-de-datos-de-esim/japon-ilimitado-15-dias/?wmc-currency=EUR): 39€
