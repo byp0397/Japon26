@@ -1,7 +1,7 @@
 # Tokio
 Pincha en los enlaces para ver el itinerario (si aplica)
 ## [Kamakura](https://www.japan-guide.com/e/e3121_kamakura_full.html#section_activities) (F)
-Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura?howManyAdults=1&howManyChildren=NaN&beginsAt=2026-10-18&endsAt=2026-10-18).
+Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura?howManyAdults=1&howManyChildren=NaN&beginsAt=2026-10-18&endsAt=2026-10-18) el día 18 de octubre.
 ### Plan
 - [Coger el JS](https://japantravel.navitime.com/es/area/jp/route/result/?start=00003544&goal=00008288&start_name=Shibuya&goal_name=Kita-Kamakura&cid=&from=route_result_search_box&date_time=2026-10-18T08%3A30) hasta la **Estación de Kita-Kamakura** desde Shibuya.
 - En la estación nos encontraremos con el guía (**Enrique**).
