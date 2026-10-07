@@ -1,4 +1,4 @@
-1. Osaka
+
 4. Ryokan (Hakone?)
 5. Sumo
 6. Hoteles
