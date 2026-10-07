@@ -55,7 +55,25 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 
 > En algún momento del viaje hay que incluir la visita a *Fushimi Inari Taisha*. Es **imprescindible**.
 
+## [Nara](https://www.japan-guide.com/e/e4119_nara_full.html)
+### Plan A
+1. Bajarnos del tren en la estación *Kintetsu Nara*.
+2. Ir al templo *Kofukuji* para ver el hall principal y el este.
+3. **Opcional** Visitar los museos nacionales que hay al lado.
+   > Tiene mucho arte budista... Sin más.
+4. Ir hacia el templo *Todaiji* y ver la *Nandaimon Gate*
+5. Ver el hall principal llamado *Daibutsuden*
+   > Es el edificio de madera más grande del mundo.
+   > Alberga una estatua de Buda gigante.
+6. Ir hacia *Nigatsudo* y pasear por la colina al este del *Daibutsuden*.
+   > El paseo es precioso.
+   > Ver en la web de japan-guide.com
+7. Ver el templo de *Nigatsudo*
+   > Las vistas de *Nara* desde allí son muy buenas.
+8. Ir a *Kasuga Taisha* y verlo
 
+### Plan B
+Hacer un [free tour](https://gyg.me/oUI4esAk)
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 ### Plan
 1. Coger a las 09:09 un autobús o tranvía en dirección a la estación *Saga-Arashiyama*.
