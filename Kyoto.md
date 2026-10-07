@@ -1,31 +1,30 @@
 # Kyoto
 Te quiero mucho.
-## [Castillo de Himeji](https://himeji-kanko.book.ntmg.jp/products/aa7ca70e-89ef-5b92-a2de-41aac759e879?lng=en-US) (F)
-> * [Reservar entradas](https://himeji-kanko.book.ntmg.jp/products/be46710e-a77c-597d-b319-608c21aa60ce?lng=en-US) por internet. Hay que pedirle a Chicho que llame para reservarnos la comida y/o té.
-> * **Llevar bolsa** para los zapatos. Hay que quitárselos para entrar.
-> * **FreeTour comprado** falta pillar entradas del castillo para el 24 de octubre.
-### Plan
-1. Llegar a Himeji a las 09:30 para poder apuntarnos al tour de las 10:00. 
-3. Visitar el castillo con guia o solitos con audioguia
-4. Visitar los jardines de Koko-en (5 minutos andando desde el castillo)
-5. Comer en el [restaurante del jardín](https://www.himeji-machishin.jp/ryokka/kokoen/en/inquiry/index.html)
-   > También hay una casa sobre La ceremonia del té.
-   > Solo se puede reservar la comida en el restaurante.
+## 21 oct llegada a Kyoto
+## 22 oct [Nara](https://www.japan-guide.com/e/e4119_nara_full.html)
+### Plan A
+1. Bajarnos del tren en la estación *Kintetsu Nara*.
+2. Ir al templo *Kofukuji* para ver el hall principal y el este.
+3. **Opcional** Visitar los museos nacionales que hay al lado.
+   > Tiene mucho arte budista... Sin más.
+4. Ir hacia el templo *Todaiji* y ver la *Nandaimon Gate*
+5. Ver el hall principal llamado *Daibutsuden*
+   > Es el edificio de madera más grande del mundo.
+   > Alberga una estatua de Buda gigante.
+6. Ir hacia *Nigatsudo* y pasear por la colina al este del *Daibutsuden*.
+   > El paseo es precioso.
+   > Ver en la web de japan-guide.com
+7. Ver el templo de *Nigatsudo*
+   > Las vistas de *Nara* desde allí son muy buenas.
+8. Ir a *Kasuga Taisha* y verlo
+#### Precio
+* Aprox 3000 yen.
 
-### Cómo llegar
-[Andar](https://maps.app.goo.gl/6t51XoimhS54hpF7A) desde la estación de tren de Himeji hasta la oficina de venta de tickets para apuntarnos al tour.
-> Nosotros ya tendremos las entradas compradas por internet.
-### Horario
-09:00–17:00（entry 16:00)
-### Precio
-2500 yen pp. La [compra online](https://himeji-kanko.book.ntmg.jp/products/be46710e-a77c-597d-b319-608c21aa60ce?lng=en-US) incluye un voucher de 1000 yen para comprar cosas o comer **en Himeji**.
-> Si pagas 100 yenes más (2600 yen pp) puedes visitar los jardines Kokoen Garden también.
-### Tours
-Existen dos turnos diarios de tour guiado: 10:00 y 13:00.
-Ambos son solo en inglés y duran 1:45. No se pueden reservar. **Solo admiten a 10 turistas por tour**. Cuesta 1500 yenes pp.
-Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) solo en inglés.
+### Plan B
+Hacer un [walking tour](https://gyg.me/oUI4esAk)
+* Precio 19 € pp.
 
-## [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html) (H)
+## 23 oct [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html) (H)
 ### Plan A
 * Existen [freetours](https://www.civitatis.com/es/kioto/free-tour-kioto/#punto-de-encuentro) que deberíamos usar y tienen buena pinta.
 * Se puede ver algún [combate de sumo](https://www.getyourguide.com/es-es/kioto-l96826/kioto-espectaculo-de-sumo-con-cena-de-sushi-y-experiencia-interactiva-t1294774/?ranking_uuid=433e9a49-7cad-40f6-9950-a8c47664d810&q=Tours%2C+Kioto)
@@ -55,28 +54,34 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 
 > En algún momento del viaje hay que incluir la visita a *Fushimi Inari Taisha*. Es **imprescindible**.
 
-## [Nara](https://www.japan-guide.com/e/e4119_nara_full.html)
-### Plan A
-1. Bajarnos del tren en la estación *Kintetsu Nara*.
-2. Ir al templo *Kofukuji* para ver el hall principal y el este.
-3. **Opcional** Visitar los museos nacionales que hay al lado.
-   > Tiene mucho arte budista... Sin más.
-4. Ir hacia el templo *Todaiji* y ver la *Nandaimon Gate*
-5. Ver el hall principal llamado *Daibutsuden*
-   > Es el edificio de madera más grande del mundo.
-   > Alberga una estatua de Buda gigante.
-6. Ir hacia *Nigatsudo* y pasear por la colina al este del *Daibutsuden*.
-   > El paseo es precioso.
-   > Ver en la web de japan-guide.com
-7. Ver el templo de *Nigatsudo*
-   > Las vistas de *Nara* desde allí son muy buenas.
-8. Ir a *Kasuga Taisha* y verlo
-#### Precio
-* Aprox 3000 yen.
 
-### Plan B
-Hacer un [walking tour](https://gyg.me/oUI4esAk)
-* Precio 19 € pp.
+## 24 oct [Castillo de Himeji](https://himeji-kanko.book.ntmg.jp/products/aa7ca70e-89ef-5b92-a2de-41aac759e879?lng=en-US) (F)
+> * [Reservar entradas](https://himeji-kanko.book.ntmg.jp/products/be46710e-a77c-597d-b319-608c21aa60ce?lng=en-US) por internet. Hay que pedirle a Chicho que llame para reservarnos la comida y/o té.
+> * **Llevar bolsa** para los zapatos. Hay que quitárselos para entrar.
+> * **FreeTour comprado** falta pillar entradas del castillo para el 24 de octubre.
+### Plan
+1. Llegar a Himeji a las 08:30 para reunirnos con **Nikki** del [free tour](https://www.guruwalk.com/es/walks/61387-tour-del-maravilloso-castillo-de-himeji?utm_source=share&utm_medium=navigator) (**ya comprado**). 
+3. Visitar el castillo con guia o solitos con audioguia
+4. Visitar los jardines de Koko-en (5 minutos andando desde el castillo)
+5. Comer en el [restaurante del jardín](https://www.himeji-machishin.jp/ryokka/kokoen/en/inquiry/index.html)
+   > También hay una casa sobre La ceremonia del té.
+   > Solo se puede reservar la comida en el restaurante.
+
+### Cómo llegar
+[Andar](https://maps.app.goo.gl/6t51XoimhS54hpF7A) desde la estación de tren de Himeji hasta la oficina de venta de tickets para apuntarnos al tour.
+> Nosotros ya tendremos las entradas compradas por internet.
+### Horario
+09:00–17:00（entry 16:00)
+### Precio
+2500 yen pp. La [compra online](https://himeji-kanko.book.ntmg.jp/products/be46710e-a77c-597d-b319-608c21aa60ce?lng=en-US) incluye un voucher de 1000 yen para comprar cosas o comer **en Himeji**.
+> Si pagas 100 yenes más (2600 yen pp) puedes visitar los jardines Kokoen Garden también.
+### Tours
+Existen dos turnos diarios de tour guiado: 10:00 y 13:00.
+Ambos son solo en inglés y duran 1:45. No se pueden reservar. **Solo admiten a 10 turistas por tour**. Cuesta 1500 yenes pp.
+Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) solo en inglés.
+
+
+
 ## [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html) (H)
 ### Plan
 1. Coger a las 09:09 un autobús o tranvía en dirección a la estación *Saga-Arashiyama*.
