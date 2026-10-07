@@ -51,7 +51,7 @@ No disponible: total en torno a 3500 yen pp (sin comida)
   > Podemos subir al [Tokio Skytree](https://en.tokyo-skytree.jp/ticket/) (1800 yen pp online)
 ## [Asakusa + Hama Rikyu](https://www.japan-guide.com/e/e3051_odaiba_asakusa_full.html) (H)
 > Continuación del plan B anterior
-1. **Opcional** Coger el [Tokyo Water Bus]([https://www.suijobus.co.jp/reservation/](https://www.suijobus.co.jp/en/cruise/?from=asakusa&to=hamarikyu)) entre *Asakusa* y el parque *Hama Rikyu*.
+1. **Opcional** Coger el [Tokyo Water Bus](https://www.suijobus.co.jp/en/cruise/?from=asakusa&to=hamarikyu) entre *Asakusa* y el parque *Hama Rikyu*.
    > Tarda 35 min . Pero la frecuencia de paso es muy baja. Conviene reservarlo. Permite reservarlo con 5 min de antelación.
 2. Dar un paseo por el parque Hama Rikyu.
 3. Parar en la casa del té a descansar.
