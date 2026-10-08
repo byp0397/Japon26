@@ -2,4 +2,4 @@
 4. [Ryokan](https://www.booking.com/Share-mt60fh) Hakone noche del 26 al 27
 5. Sumo
 6. Hoteles
-7. e-Sim y seguro de salud
+7. seguro de salud
