@@ -2,7 +2,7 @@
 * Descargar la app de Ubigi (eSIM) en el iPhone
   > Leer el mail de Ubigi donde dice *Pasos*
 * Recoger efectivo de Sabadell el día 14.
-* * Rellenar info de viaje del hotel de Tokyo
+* Rellenar info de viaje del hotel de Tokyo
 * Comprobar cobertura seguro médico de Bea
 * Descargar la app de Ubigi (eSIM) en el iPhone
   > Ver el mail de Ubigi
