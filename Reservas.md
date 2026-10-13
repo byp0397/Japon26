@@ -19,6 +19,8 @@
 * Código de reserva: *HMKQZWXBBK*
 * Persona de contacto: *Yuki*
   > Contactar por Chat en AirBnB
+* Instrucciones
+  > Después de abrir la cerradura automática de la entrada al edificio en la primera planta con el código PIN «＊7777 呼出», dirígete a tu habitación en ascensor. Puedes abrir la cerradura electrónica de la entrada de tu habitación introduciendo el código PIN «111021✓».
 
 
 
