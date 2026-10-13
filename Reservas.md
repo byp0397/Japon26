@@ -29,22 +29,27 @@
 
 ## [Western Tokyo/Shibuya](https://www.guruwalk.com/es/walks/55992-1-resenado-shibuya-harajuku-ajetreo-bullicio-y-cultura)
 * Guía: *sin nombre*
-* Horario: *14:00*
+* Hora: *14:00*
 * Lugar de encuentro: *[Estatua de Hachiko](https://www.google.com/maps?q=35.659055,139.700629) usualmente en lado izquierdo al mirar de frente a la estatua.*
   > Salida A8/Hachiko de la estación Shibuya.
 
-## [FreeTour Nocturno]()
+## [FreeTour Nocturno](https://www.guruwalk.com/es/walks/55960-18-1-tour-nocturno-en-shinjuku-con-mejores-resenas-distrito-rojo-de-kabukicho-e-historias-ocultas-solo-para-adultos)
+* Guía: *Sin nombre*
+* Hora: *18:45*
+* Lugar de encuentro: *[salida A4, Tochomae Station](https://maps.app.goo.gl/eCDaZ4P35FVqLKoc9) *
+
+
 
 ## [Kamakura](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura)
 * Guía: *Enrique*
   > Lleva un paragüas japonés rojo
-* Horario: *10:00*
+* Hora: *10:00*
 * Lugar de encuentro: *[Kita-kamakura station](https://maps.app.goo.gl/aEJdMvgCjLAuKQ589) salida **este***
 
 ## [Asakusa](https://www.guruwalk.com/es/walks/67186-free-tour-asakusa-el-corazon-tradicional-de-tokio)
 * Guía: *Sin nombre*
   > Lleva una bandera de **Hikari Tours**
-* Horario: *10:00*
+* Hora: *10:00*
 * Lugar de encuentro: *[Starbucks](https://maps.app.goo.gl/vb3G2ZgVLj74AEzE7) del portal Kaminarimon del templo Sensō-ji*
 * Instrucciones:
   > El día de antes nos escribirán por WhatsApp desde el número +817054793024 o por GuruWalk para confirmar la visita.
@@ -52,7 +57,7 @@
 
 ## [Himeji](https://www.guruwalk.com/es/walks/61387-tour-del-maravilloso-castillo-de-himeji)
 * Guía: *Nishi*
-* Horario: *09:00*
+* Hora: *09:00*
 * Lugar de encuentro: *por determinar*
 * Instrucciones:
   > [Aquí](https://himeji-kanko.book.ntmg.jp/eticket?lng=en-US&r=acb2eb69-c0d6-5383-a2c2-b322c98e6ca9) están las entradas.
