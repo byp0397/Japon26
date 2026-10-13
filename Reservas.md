@@ -55,4 +55,4 @@
 * Horario: *09:00*
 * Lugar de encuentro: *por determinar*
 * Instrucciones:
-  > Tener compradas las entradas del Castillo y/o jardin de Koko-en. **NO LO ESTÁN**
+  > [Aquí](https://himeji-kanko.book.ntmg.jp/eticket?lng=en-US&r=acb2eb69-c0d6-5383-a2c2-b322c98e6ca9) están las entradas.
