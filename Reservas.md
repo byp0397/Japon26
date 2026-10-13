@@ -38,3 +38,6 @@
 * Lugar de encuentro: *Starbucks del portal Kaminarimon del templo Sensō-ji [Ver en Maps](https://maps.app.goo.gl/vb3G2ZgVLj74AEzE7)*
 * Instrucciones:
   > El día de antes nos escribirán por WhatsApp desde el número +817054793024 o por GuruWalk para confirmar la visita.
+  > Si no se llega a un mínimo de 4 personas cancelarán el tour.
+
+## [Himeji](
