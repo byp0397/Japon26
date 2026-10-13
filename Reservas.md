@@ -12,6 +12,7 @@
 * Tlfn de contacto: *08085009217*
 * [Link pre-chekIn](https://www.onestayapp.com/s/HT4eD6t)
   > Rellenarlo el día 15
+  > Ese mismo día nos mandarán un mail con las instrucciones de acceso a la habitación
 ## [Kyoto](https://www.airbnb.es/trips/v1/1794432992681445013/ro/RESERVATION2_CHECKIN/HMKQZWXBBK)
 * Nombre: *Habitación Breeze Garden*
 * Dirección: *3-chōme-4-21 Kyōmachibori, Nishi Ward, Osaka, Osaka 550-0003, Japón [Ver en Maps](https://maps.app.goo.gl/auXf5unRTD3szgzX8)*
