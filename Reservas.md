@@ -25,3 +25,15 @@
 
 
 # FreeTours
+## [Kamakura](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura)
+* Guía: *Enrique*
+  > Lleva un paragüas japonés rojo
+* Horario: *10:00*
+* Lugar de encuentro: *[Kita-kamakura station](https://maps.app.goo.gl/aEJdMvgCjLAuKQ589) salida **este***
+
+## [Asakusa](https://www.guruwalk.com/es/walks/67186-free-tour-asakusa-el-corazon-tradicional-de-tokio)
+* Guía: *Sin nombre*
+  > Lleva una bandera de **Hikari Tours**
+* Horario: *10:00*
+* Lugar de encuentro: *Starbucks del portal Kaminarimon del templo Sensō-ji [Ver en Maps](https://maps.app.goo.gl/vb3G2ZgVLj74AEzE7)*
+* 
