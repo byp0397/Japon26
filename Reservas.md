@@ -64,4 +64,10 @@
 * Instrucciones:
   > [Aquí](https://himeji-kanko.book.ntmg.jp/eticket?lng=en-US&r=acb2eb69-c0d6-5383-a2c2-b322c98e6ca9) están las entradas.
 
-## [Arashiyama]()
+## [Arashiyama](https://www.guruwalk.com/es/walks/66782-kioto-recorrido-a-pie-por-arashiyama-patrimonio-de-la-humanidad-de-la-unesco-con-entrada-incluida)
+* Gúia: *Sin nombre*
+  > Lleva una bandera de **Local Guide Stars**
+* Hora: *12:00*
+* Lugar de encuentro: *[Teuchisoba Sobashiki Arashiyama Sohonten](https://www.google.com/maps?q=35.014402,135.677435)*
+* Instrucciones:
+  > Llegar al menos 15 min antes.
