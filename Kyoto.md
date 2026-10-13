@@ -85,7 +85,7 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 ### Plan
 1. Coger a las 09:09 un autobús o tranvía en dirección a la estación *Saga-Arashiyama*.
 2. Andar 10 minutos hasta el punto de encuentro del free tour.
-   > El tour es de 10:00 a 11:30.
+   > El tour es a las 12:00.
 3. Al acabar el free tour, visitar el *Monkey Park*.
    > La entrada cuesta 800 yenes y **solo se puede pagar en efectivo**.
 4. Dirigirnos hacia la estación de *Arashiyama* y comer por el camino o por la zona.
