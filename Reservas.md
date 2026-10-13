@@ -36,7 +36,9 @@
 ## [FreeTour Nocturno](https://www.guruwalk.com/es/walks/55960-18-1-tour-nocturno-en-shinjuku-con-mejores-resenas-distrito-rojo-de-kabukicho-e-historias-ocultas-solo-para-adultos)
 * Guía: *Sin nombre*
 * Hora: *18:45*
-* Lugar de encuentro: *[salida A4, Tochomae Station](https://maps.app.goo.gl/eCDaZ4P35FVqLKoc9) *
+* Lugar de encuentro: *[salida A4, Tochomae Station](https://maps.app.goo.gl/eCDaZ4P35FVqLKoc9)*
+* Instrucciones:
+  > Nos podrán notificar la cancelación a través de Sophie Kim, Propietaria de Japan Navigators, por el número +81 70 2654 7938.
 
 
 
