@@ -55,7 +55,7 @@ Vamos a hacer un [FreeTour](https://www.guruwalk.com/es/walks/50551-free-tour-en
 3. Entrar en el jardín Shoyoen (pertenece al templo de Rinnoji)
 4. Entrar al templo Rinnoji
 5. Parar para comer bocatas o en algún restaurante (hay bastante oferta pero está lejos de los templos)
-   > mi princesa por sorpresa recomienda que comamos **yuba**.
+   > Recomendación: probar el **yuba**.
 7. Ver el Toshogu shrine
 8. Ver el Futarasan shrine
 9. Ver la villa imperial Tamozawa
