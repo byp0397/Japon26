@@ -27,7 +27,7 @@
 
 # FreeTours
 
-## [Western Tokyo - Shibuya](https://www.guruwalk.com/es/walks/55992-1-resenado-shibuya-harajuku-ajetreo-bullicio-y-cultura)
+## [Western Tokyo/Shibuya](https://www.guruwalk.com/es/walks/55992-1-resenado-shibuya-harajuku-ajetreo-bullicio-y-cultura)
 * Guía: *sin nombre*
 * Horario: *14:00*
 * Lugar de encuentro: *[Estatua de Hachiko](https://www.google.com/maps?q=35.659055,139.700629) usualmente en lado izquierdo al mirar de frente a la estatua.*
