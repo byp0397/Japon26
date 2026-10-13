@@ -3,3 +3,5 @@
 * Sumo
 * Comprobar cobertura seguro médico de Bea
 * Hacer lista de reservas
+* Rellenar info de viaje del hotel de Tokyo
+* Descargar la app de Ubigi (eSIM) en el iPhone  
