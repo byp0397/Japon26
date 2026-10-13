@@ -40,4 +40,9 @@
   > El día de antes nos escribirán por WhatsApp desde el número +817054793024 o por GuruWalk para confirmar la visita.
   > Si no se llega a un mínimo de 4 personas cancelarán el tour.
 
-## [Himeji](
+## [Himeji](https://www.guruwalk.com/es/walks/61387-tour-del-maravilloso-castillo-de-himeji)
+* Guía: *Nishi*
+* Horario: *09:00*
+* Lugar de encuentro: *por determinar*
+* Instrucciones:
+  > Tener compradas las entradas del Castillo y/o jardin de Koko-en. **NO LO ESTÁN**
