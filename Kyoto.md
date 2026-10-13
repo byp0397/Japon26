@@ -1,5 +1,4 @@
 # Kyoto
-Te quiero mucho.
 ## 21 oct llegada a Kyoto
 ## 22 oct [Nara](https://www.japan-guide.com/e/e4119_nara_full.html)
 ### Plan A
