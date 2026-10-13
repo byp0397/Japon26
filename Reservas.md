@@ -31,6 +31,7 @@
 * Guía: *sin nombre*
 * Horario: *14:00*
 * Lugar de encuentro: *[Estatua de Hachiko](https://www.google.com/maps?q=35.659055,139.700629)*
+  > Salida A8/Hachiko de la estación Shibuya.
 
 ## [Kamakura](https://www.guruwalk.com/es/walks/50551-free-tour-en-la-legendaria-kamakura)
 * Guía: *Enrique*
