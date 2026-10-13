@@ -55,9 +55,9 @@ Hacer un [walking tour](https://gyg.me/oUI4esAk)
 
 
 ## 24 oct [Castillo de Himeji](https://himeji-kanko.book.ntmg.jp/products/aa7ca70e-89ef-5b92-a2de-41aac759e879?lng=en-US) (F)
-> * [Reservar entradas](https://himeji-kanko.book.ntmg.jp/products/be46710e-a77c-597d-b319-608c21aa60ce?lng=en-US) por internet. Hay que pedirle a Chicho que llame para reservarnos la comida y/o té.
+> Hay que pedirle a Nishi que llame para reservarnos la comida y/o té.
 > * **Llevar bolsa** para los zapatos. Hay que quitárselos para entrar.
-> * **FreeTour comprado** falta pillar entradas del castillo para el 24 de octubre.
+> * **FreeTour y entradas comprado**
 ### Plan
 1. Llegar a Himeji a las 08:30 para reunirnos con **Nikki** del [free tour](https://www.guruwalk.com/es/walks/61387-tour-del-maravilloso-castillo-de-himeji?utm_source=share&utm_medium=navigator) (**ya comprado**). 
 3. Visitar el castillo con guia o solitos con audioguia
@@ -94,7 +94,7 @@ Existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) sol
 
 1. Alquilar unas bicicletas.
    > *HELLO CYCLING* es una buena aplicación, pero solo admite números de teléfono de Japón y de unos pocos países más. Podemos probarla si nuestra eSIM tiene número japonés.
-   > Si no funciona, podemos buscar bicicletas en esta https://kyoto-bicycle.com/en/rental_search.
+   > Si no funciona, podemos buscar bicicletas en esta [web](https://kyoto-bicycle.com/en/rental_search.)
 2. Ir al templo *Jojakkoji*.
    > Es uno de los mejores templos para visitar en otoño y tiene aparcamiento para bicicletas.
 3. Visitar el templo *Gio-ji*.
