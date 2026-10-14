@@ -2,7 +2,6 @@
 ## Antes de despegar de Madrid
 * Descargar la app de Ubigi (eSIM) en el iPhone
   > Leer el mail de Ubigi donde dice *Pasos*
-* Recoger **efectivo de Sabadell el día 14**.
 * Rellenar [info del viaje](https://www.onestayapp.com/s/HT4eD6t) del hotel de Tokyo **el día 15**  
   > Ese mismo día nos mandarán un mail con las instrucciones de acceso a la habitación
 * Comprobar cobertura seguro médico de Bea
@@ -150,4 +149,6 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 - 3 horas y media
 ## Precio
 - Aprox 15000 pp
+
+
 
