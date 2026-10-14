@@ -9,6 +9,7 @@
 * Comprobar que llevamos las tarjetas de Revolut personales y las del seguro médico de Occident/Adeslas.
 * **Leer la checklist pinneada en el chat Bea y Pedro.**
 * **Comprobar en qué locker vamos a dejar las maletas. Hablar con el hotel de Tokyo.**
+  > Correo enviado, esperando respuesta.
 
 ## Después de aterrizar en Tokyo
 * Sacar la tarjeta **[SUICA](https://www.jreast.co.jp/es/multi/pass/suica.html)**
@@ -30,6 +31,7 @@
 * Nombre: *Sugamo Green Heights*
 * Dirección: *1 Chome-40-12 Sugamo, Toshima City, Tokyo 170-0002, Japan [Ver en Maps](https://maps.app.goo.gl/qrE4RQSoGDYH9vh57)*
 * Agencia de reserva del apartamento: *[Tranova.com](https://tranova.com/facility-info/sugamo-green-heights/)*
+* Instrucciones: 
 * Código de reserva: *T80453ECF3AF4*
 * Tlfn de contacto: *08085009217*
 
