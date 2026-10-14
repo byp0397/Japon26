@@ -18,8 +18,9 @@
 * [Ryokan](https://www.booking.com/Share-mt60fh) Hakone noche del 26 al 27
 * Sumo
 
-# 15 oct 1230 MAD - 16 oct 09:30 NRT
+# 15/16 oct MAD NRT
 * Vuelo IB281 (asientos 49K/L)
+* Salida a las 12:30 y llegada a las 09:30
 
 ## [NRT a Sugamo](https://japantravel.navitime.com/en/access/airport/NRT?terminal=02022-1158733&searchPointName=Sugamo&searchPointSpotCode=&searchPointNodeCode=00005371&searchPointAddressCode=&searchPointLat=&searchPointLon=&date=2026-10-16&searchTimeType=start&hour=10&minute=32&resuestDateType=date_and_time_specified&isNaritaModule=true&isFromAirportModule=true&moveType=train)
 
@@ -186,3 +187,7 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 
 # 26 oct Vuelta a Tokyo(?)
 > **Importante: planificar bien la compra de billetes. Es rara.**
+
+# 26/27 oct NRT MAD
+* Vuelo IB282 (asientos ?)
+* Salida a las 22:30 y llegada a las 05:45
