@@ -8,6 +8,7 @@
 * Comprobar cobertura seguro médico de Bea
 * Practicar técnica de besitos con Bea para no irritarle la carita
 * Comprobar que llevamos las tarjetas de Revolut personales y las del seguro médico de Occident/Adeslas.
+* **Leer la checklist pinneada en el chat Bea y Pedro.**
 * **Comprobar en qué locker vamos a dejar las maletas. Hablar con el hotel de Tokyo.**
 
 ## Después de aterrizar en Tokyo
