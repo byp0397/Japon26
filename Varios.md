@@ -22,8 +22,7 @@ Revolut ofrece el mejor cambio que he visto de momento.
 # Vuelos
 ## 15 oct 12:30 MAD - 16 oct 09:30 NRT
 * IB0281
-* Código reserva: MLTLR
 
 ## 27 oct 22:10 NRT - 28 oct 05:45 MAD
 * IB0282
-* Código reserva: MLVVS
+
