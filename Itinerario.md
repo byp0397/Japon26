@@ -144,7 +144,7 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 ## Transporte entre templos:
 [Existe](https://tobu-japantrip-tickets.com/) un pase de Nikko para ir en bus entre la estación de tren y los templos.
 
-# 21 oct [Viaje Tokyo (Japón) a Oh-saka](https://japantravel.navitime.com/en/area/jp/route/result/?start=00005371&goal=00000167&start_name=Sugamo&goal_name=Awaza&cid=&from=route_result_search_box&date_time=2026-10-21T09%3A30)
+# 21 oct [Tokyo (Japón) a Oh-saka](https://japantravel.navitime.com/en/area/jp/route/result/?start=00005371&goal=00000167&start_name=Sugamo&goal_name=Awaza&cid=&from=route_result_search_box&date_time=2026-10-21T09%3A30)
 > **Importante: planificar bien la compra de billetes. Es rara.**
 ## Duración
 - 3 horas y media
