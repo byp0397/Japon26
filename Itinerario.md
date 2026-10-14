@@ -7,6 +7,7 @@
   > Ese mismo día nos mandarán un mail con las instrucciones de acceso a la habitación
 * Comprobar cobertura seguro médico de Bea
 * Practicar técnica de besitos con Bea para no irritarle la carita
+* Comprobar que llevamos las tarjetas de Revolut personales y las del seguro médico de Occident/Adeslas.
 * **Comprobar en qué locker vamos a dejar las maletas. Hablar con el hotel de Tokyo.**
 
 ## Después de aterrizar en Tokyo
