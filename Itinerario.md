@@ -1,4 +1,5 @@
-# Antes de despegar de Madrid
+# Importante 
+## Antes de despegar de Madrid
 * Descargar la app de Ubigi (eSIM) en el iPhone
   > Leer el mail de Ubigi donde dice *Pasos*
 * Recoger **efectivo de Sabadell el día 14**.
@@ -8,13 +9,13 @@
 * Practicar técnica de besitos con Bea para no irritarle la carita
 * **Comprobar en qué locker vamos a dejar las maletas. Hablar con el hotel de Tokyo.**
 
-# Después de aterrizar en Tokyo
+## Después de aterrizar en Tokyo
 * Sacar la tarjeta **[SUICA](https://www.jreast.co.jp/es/multi/pass/suica.html)**
   > Digital (para iPhone) y en tarjeta física (para Pedrito)
   > Para comprar/recargar la tarjeta física **SUICA solo acepta yenes en efectivo.**
   > No vale para subir a tren bala directamente
 
-# Pendiente de clasificar
+## Pendiente de clasificar
 * [Ryokan](https://www.booking.com/Share-mt60fh) Hakone noche del 26 al 27
 * Sumo
 
@@ -23,19 +24,19 @@
 
 ## [NRT a Sugamo](https://japantravel.navitime.com/en/access/airport/NRT?terminal=02022-1158733&searchPointName=Sugamo&searchPointSpotCode=&searchPointNodeCode=00005371&searchPointAddressCode=&searchPointLat=&searchPointLon=&date=2026-10-16&searchTimeType=start&hour=10&minute=32&resuestDateType=date_and_time_specified&isNaritaModule=true&isFromAirportModule=true&moveType=train)
 
-### [Hotel de Tokyo](https://tranova.com/facility-info/sugamo-green-heights/)
+## [Hotel de Tokyo](https://tranova.com/facility-info/sugamo-green-heights/)
 * Nombre: *Sugamo Green Heights*
 * Dirección: *1 Chome-40-12 Sugamo, Toshima City, Tokyo 170-0002, Japan [Ver en Maps](https://maps.app.goo.gl/qrE4RQSoGDYH9vh57)*
 * Agencia de reserva del apartamento: *[Tranova.com](https://tranova.com/facility-info/sugamo-green-heights/)*
 * Código de reserva: *T80453ECF3AF4*
 * Tlfn de contacto: *08085009217*
 
-#### Plan
+### Plan
  > Llegar y dejar las maletas en la habitación o en un locker. 
 
 * Coger el metro de [Sugamo a Shibuya](https://japantravel.navitime.com/en/area/jp/route/result/?start=00005371&goal=00003544&start_name=Sugamo&goal_name=Shibuya&cid=&from=route_top_search_box&date_time=2026-10-16T13%3A36) para el freetour
 
-##### [Freetour Western Tokyo/Shibuya](https://www.guruwalk.com/es/walks/55992-1-resenado-shibuya-harajuku-ajetreo-bullicio-y-cultura)
+#### [Freetour Western Tokyo/Shibuya](https://www.guruwalk.com/es/walks/55992-1-resenado-shibuya-harajuku-ajetreo-bullicio-y-cultura)
 * Guía: *sin nombre*
 * Hora: *16 oct 14:00*
 * Lugar de encuentro: *[Estatua de Hachiko](https://www.google.com/maps?q=35.659055,139.700629) usualmente en lado izquierdo al mirar de frente a la estatua.*
@@ -89,3 +90,61 @@
 - **Tsurugaoka Hachimangu Shrine**: 30 min.
 - **Opcional: Zeniarai Benten Shrine** y **Genjiyama Park**: 30 min andando.
   > Aquí está la estatua de Minamoto Yoritomo.
+
+> Resto del día libre
+
+# 19 oct [Asakusa](https://www.japan-guide.com/e/e3051_asakusa_half.html)
+
+## Plan
+> [Coger el metro](https://japantravel.navitime.com/en/area/jp/route/result/?start=00005371&goal=00005270&start_name=Sugamo&goal_name=Asakusa&cid=&from=route_result_search_box&date_time=2026-10-19T09%3A30&search_time_mode=goal-time) hasta Asakusa.
+
+### [Freetour Asakusa](https://www.guruwalk.com/es/walks/67186-free-tour-asakusa-el-corazon-tradicional-de-tokio)
+* Guía: *Sin nombre*
+  > Lleva una bandera de **Hikari Tours**
+* Hora: *19 oct 10:00*
+* Lugar de encuentro: *[Starbucks](https://maps.app.goo.gl/vb3G2ZgVLj74AEzE7) del portal Kaminarimon del templo Sensō-ji*
+* Instrucciones:
+  > El día de antes nos escribirán por WhatsApp desde el número +817054793024 o por GuruWalk para confirmar la visita.
+  > Si no se llega a un mínimo de 4 personas cancelarán el tour.
+
+#### Opcional
+1. Ir a estación de Asakusa
+2. Ver la puerta *Kaminarimon* y entrar en la calle *Nakamise Dori*.
+3. Ver la calle *Nakamise Dori*. Es de tienditas de comida y souvenirs.
+4. Entrar en el templo *Senso-ji*
+   > Entrada gratuita.
+5. Salir del templo y visitar las calles *Dempoin Street* y *Shin-Nakamise*.
+6. Ir al *parque Sumida*
+  > Podemos subir al [Tokio Skytree](https://en.tokyo-skytree.jp/ticket/) (1800 yen pp online)
+7. Coger el [Tokyo Water Bus](https://www.suijobus.co.jp/en/cruise/?from=asakusa&to=hamarikyu) entre *Asakusa* y el parque *Hama Rikyu*.
+   > Tarda 35 min . Pero la frecuencia de paso es muy baja. Conviene reservarlo. Permite reservarlo con 5 min de antelación.
+8. Dar un paseo por el parque Hama Rikyu.
+9. Parar en la casa del té a descansar.
+
+# 20 oct [Nikko](https://www.japan-guide.com/e/e3822_nikko_town_full.html)
+> **Importante: planificar bien la compra de billetes. Es rara.**
+## Plan
+> [Coger el tren](https://japantravel.navitime.com/en/area/jp/route/result/?start=00005371&goal=00006836&start_name=Sugamo&goal_name=Tobu-Nikko&cid=&from=route_result_search_box&date_time=2026-10-20T09%3A30) en Sugamo y bajarse en la estación Tobu Nikko
+1. Llegar a Tobu Nikko Station
+2. [Andar](https://maps.app.goo.gl/oaroSQJDJ9GhnVJC8) 20 mins hasta el puente Shinkyo (es sagrado!)
+3. Entrar en el jardín Shoyoen (pertenece al templo de Rinnoji)
+4. Entrar al templo Rinnoji
+5. Parar para comer bocatas o en algún restaurante (hay bastante oferta pero está lejos de los templos)
+   > Recomendación: probar el **yuba**.
+7. Ver el Toshogu shrine
+8. Ver el Futarasan shrine
+9. Ver la villa imperial Tamozawa
+
+> **Opcional**: coger un bus a las cascadas Kegon.
+## Precio
+No disponible: total en torno a 3500 yen pp (sin comida)
+## Transporte entre templos:
+[Existe](https://tobu-japantrip-tickets.com/) un pase de Nikko para ir en bus entre la estación de tren y los templos.
+
+# 21 oct [Viaje a Tokyo (Japón) a Oh-saka](https://japantravel.navitime.com/en/area/jp/route/result/?start=00005371&goal=00000167&start_name=Sugamo&goal_name=Awaza&cid=&from=route_result_search_box&date_time=2026-10-21T09%3A30)
+> **Importante: planificar bien la compra de billetes. Es rara.**
+## Duración
+- 3 horas y media
+## Precio
+- Aprox 15000 pp
+
