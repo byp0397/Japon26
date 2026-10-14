@@ -2,27 +2,23 @@
 ## Antes de despegar de Madrid
 * Descargar la app de Ubigi (eSIM) en el iPhone
   > Leer el mail de Ubigi donde dice *Pasos*
-* Rellenar [info del viaje](https://www.onestayapp.com/s/HT4eD6t) del hotel de Tokyo **el día 15**  
-  > Ese mismo día nos mandarán un mail con las instrucciones de acceso a la habitación
 * Comprobar cobertura seguro médico de Bea
 * Practicar técnica de besitos con Bea para no irritarle la carita
-* Comprobar que llevamos las tarjetas de Revolut personales y las del seguro médico de Occident/Adeslas.
-* **Leer la checklist pinneada en el chat Bea y Pedro.**
 * **Comprobar en qué locker vamos a dejar las maletas. Hablar con el hotel de Tokyo.**
-  > Correo enviado, esperando respuesta.
+  > Esperando respuesta por mail.
+* **Leer checklist del whatsapp de Pedro.**
 
 ## Después de aterrizar en Tokyo
 * Sacar la tarjeta **[SUICA](https://www.jreast.co.jp/es/multi/pass/suica.html)**
   > Digital (para iPhone) y en tarjeta física (para Pedrito)
-  > Para comprar/recargar la tarjeta física **SUICA solo acepta yenes en efectivo.**
-  > No vale para subir a tren bala directamente
+  > * Para comprar/recargar la tarjeta física **SUICA solo acepta yenes en efectivo.**
+  > * No vale para subir a tren bala directamente
 
 ## Pendiente de clasificar
 * [Ryokan](https://www.booking.com/Share-mt60fh) Hakone noche del 26 al 27
 * Sumo
 
-# 15/16 oct MAD NRT
-* Salida 12:30 y llegada 09:30
+# 15 oct 1230 MAD - 16 oct 09:30 NRT
 * Vuelo IB281 (asientos 49K/L)
 
 ## [NRT a Sugamo](https://japantravel.navitime.com/en/access/airport/NRT?terminal=02022-1158733&searchPointName=Sugamo&searchPointSpotCode=&searchPointNodeCode=00005371&searchPointAddressCode=&searchPointLat=&searchPointLon=&date=2026-10-16&searchTimeType=start&hour=10&minute=32&resuestDateType=date_and_time_specified&isNaritaModule=true&isFromAirportModule=true&moveType=train)
@@ -31,9 +27,9 @@
 * Nombre: *Sugamo Green Heights*
 * Dirección: *1 Chome-40-12 Sugamo, Toshima City, Tokyo 170-0002, Japan [Ver en Maps](https://maps.app.goo.gl/qrE4RQSoGDYH9vh57)*
 * Agencia de reserva del apartamento: *[Tranova.com](https://tranova.com/facility-info/sugamo-green-heights/)*
-* Instrucciones [aquí](https://www.onestayapp.com/s/HT4eD6t)
 * Código de reserva: *T80453ECF3AF4*
 * Tlfn de contacto: *08085009217*
+* Instrucciones [aquí](https://www.onestayapp.com/s/HT4eD6t)
 
 ### Plan
  > Llegar y dejar las maletas en la habitación o en un locker. 
@@ -145,12 +141,48 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 ## Transporte entre templos:
 [Existe](https://tobu-japantrip-tickets.com/) un pase de Nikko para ir en bus entre la estación de tren y los templos.
 
-# 21 oct [Tokyo (Japón) a Oh-saka](https://japantravel.navitime.com/en/area/jp/route/result/?start=00005371&goal=00000167&start_name=Sugamo&goal_name=Awaza&cid=&from=route_result_search_box&date_time=2026-10-21T09%3A30)
+# 21 oct [Viaje a Tokyo (Japón) a Oh-saka](https://japantravel.navitime.com/en/area/jp/route/result/?start=00005371&goal=00000167&start_name=Sugamo&goal_name=Awaza&cid=&from=route_result_search_box&date_time=2026-10-21T09%3A30)
 > **Importante: planificar bien la compra de billetes. Es rara.**
-## Duración
-- 3 horas y media
-## Precio
+- Duración aprox 3 horas y media
 - Aprox 15000 pp
 
+## [Hotel Osaka](https://www.airbnb.es/trips/v1/1794432992681445013/ro/RESERVATION2_CHECKIN/HMKQZWXBBK)
+* Nombre: *Habitación Breeze Garden*
+* Dirección: *3-chōme-4-21 Kyōmachibori, Nishi Ward, Osaka, Osaka 550-0003, Japón [Ver en Maps](https://maps.app.goo.gl/auXf5unRTD3szgzX8)*
+* Agencia de reserva del apartamento: *[AirBnB](https://www.airbnb.es/rooms/1152715420810343537?source_impression_id=p3_1791900874_P3WKxj_13MLn4IY2)*
+* Código de reserva: *HMKQZWXBBK*
+* Persona de contacto: *Yuki*
+  > Contactar por Chat en AirBnB
+* Instrucciones
+  > Después de abrir la cerradura automática de la entrada al edificio en la primera planta con el código PIN «＊7777 呼出», dirígete a tu habitación en ascensor. Puedes abrir la cerradura electrónica de la entrada de tu habitación introduciendo el código PIN «111021✓».
+
+# 22 oct [Nara](https://www.japan-guide.com/e/e4119_nara_full.html)
+
+# 23 oct [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html)
+
+# 24 oct [Castillo de Himeji](https://himeji-kanko.book.ntmg.jp/products/aa7ca70e-89ef-5b92-a2de-41aac759e879?lng=en-US)
+> Hay que pedirle a Nishi que llame para reservarnos la comida y/o té.
+> * **Llevar bolsa** para los zapatos. Hay que quitárselos para entrar.
+> * **FreeTour y entradas comprado**
+## Plan
+1. Llegar a Himeji a las 08:30 para reunirnos con **Nishi**
+3. Visitar el castillo con guia o solitos con audioguia
+4. Visitar los jardines de Koko-en (5 minutos andando desde el castillo)
+5. Comer en el [restaurante del jardín](https://www.himeji-machishin.jp/ryokka/kokoen/en/inquiry/index.html)
+   > También hay una casa sobre La ceremonia del té.
+   > Solo se puede reservar la comida en el restaurante.
+
+## [Freetour Castillo de Himeji](https://www.guruwalk.com/es/walks/61387-tour-del-maravilloso-castillo-de-himeji)
+* Guía: *Nishi*
+* Hora: *24 oct 09:00*
+* Lugar de encuentro: *[Puerta Otemon](https://maps.app.goo.gl/nxKwmP6puK7wteYS7)*
+* Instrucciones:
+  > [Aquí](https://himeji-kanko.book.ntmg.jp/eticket?lng=en-US&r=acb2eb69-c0d6-5383-a2c2-b322c98e6ca9) están las entradas.
+
+> Si por lo que sea cancelasemos el freetour, existen audioguías [gratuitas](https://www.himejicastle.jp/en/map/map.html) solo en inglés.
+
+# 25 oct [Arashiyama](https://www.japan-guide.com/e/e3950_arashiyama_half.html)
 
 
+# 26 oct Vuelta a Tokyo(?)
+> **Importante: planificar bien la compra de billetes. Es rara.**
