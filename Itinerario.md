@@ -19,7 +19,7 @@
 * [Ryokan](https://www.booking.com/Share-mt60fh) Hakone noche del 26 al 27
 * Sumo
 
-# 15 oct 1230 MAD - 16 oct 09:30 NRT
+# 15 oct 12:30 MAD - 16 oct 09:30 NRT
 * Vuelo IB281 (asientos 49K/L)
 
 ## [NRT a Sugamo](https://japantravel.navitime.com/en/access/airport/NRT?terminal=02022-1158733&searchPointName=Sugamo&searchPointSpotCode=&searchPointNodeCode=00005371&searchPointAddressCode=&searchPointLat=&searchPointLon=&date=2026-10-16&searchTimeType=start&hour=10&minute=32&resuestDateType=date_and_time_specified&isNaritaModule=true&isFromAirportModule=true&moveType=train)
