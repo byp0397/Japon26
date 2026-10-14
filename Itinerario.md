@@ -31,7 +31,7 @@
 * Nombre: *Sugamo Green Heights*
 * Dirección: *1 Chome-40-12 Sugamo, Toshima City, Tokyo 170-0002, Japan [Ver en Maps](https://maps.app.goo.gl/qrE4RQSoGDYH9vh57)*
 * Agencia de reserva del apartamento: *[Tranova.com](https://tranova.com/facility-info/sugamo-green-heights/)*
-* Instrucciones: 
+* Instrucciones [aquí](https://www.onestayapp.com/s/HT4eD6t)
 * Código de reserva: *T80453ECF3AF4*
 * Tlfn de contacto: *08085009217*
 
