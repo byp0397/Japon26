@@ -4,8 +4,6 @@
   > Leer el mail de Ubigi donde dice *Pasos*
 * Comprobar cobertura seguro médico de Bea
 * Practicar técnica de besitos con Bea para no irritarle la carita
-* **Comprobar en qué locker vamos a dejar las maletas. Hablar con el hotel de Tokyo.**
-  > Esperando respuesta por mail.
 * **Leer checklist del whatsapp de Pedro.**
 
 ## Después de aterrizar en Tokyo
@@ -31,6 +29,7 @@
 * Código de reserva: *T80453ECF3AF4*
 * Tlfn de contacto: *08085009217*
 * Instrucciones [aquí](https://www.onestayapp.com/s/HT4eD6t)
+> Ojo, nos dicen que al dejar las maletas **les mandemos una foto del equipaje** a *customer-support@ubiqstay.com*
 
 ### Plan
  > Llegar y dejar las maletas en la habitación o en un locker. 
