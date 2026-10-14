@@ -166,7 +166,7 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 > * **Llevar bolsa** para los zapatos. Hay que quitárselos para entrar.
 > * **FreeTour y entradas comprado**
 ## Plan
-1. Llegar a Himeji a las 08:30 para reunirnos con **Nishi**
+1. [Llegar a Himeji](https://japantravel.navitime.com/en/area/jp/route/result/?start=00000167&goal=00007808&start_name=Awaza&goal_name=Himeji&cid=&from=route_top_search_box&date_time=2026-10-24T08%3A30&search_time_mode=goal-time) a las 08:30 para reunirnos con **Nishi**
 3. Visitar el castillo con guia o solitos con audioguia
 4. Visitar los jardines de Koko-en (5 minutos andando desde el castillo)
 5. Comer en el [restaurante del jardín](https://www.himeji-machishin.jp/ryokka/kokoen/en/inquiry/index.html)
