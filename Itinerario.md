@@ -1,10 +1,4 @@
 # Importante 
-## Antes de despegar de Madrid
-* Descargar la app de Ubigi (eSIM) en el iPhone
-  > Leer el mail de Ubigi donde dice *Pasos*
-* Comprobar cobertura seguro médico de Bea
-* Practicar técnica de besitos con Bea para no irritarle la carita
-* **Leer checklist del whatsapp de Pedro.**
 
 ## Después de aterrizar en Tokyo
 * Sacar la tarjeta **[SUICA](https://www.jreast.co.jp/es/multi/pass/suica.html)**
