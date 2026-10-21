@@ -161,6 +161,17 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 6. Por último visitar *Nipponbashi* (ciudad del anime)
 
 # 22 oct [Nara](https://www.japan-guide.com/e/e4119_nara_full.html)
+## Plan
+
+### [Freetour Asakusa](https://www.guruwalk.com/es/walks/67186-free-tour-asakusa-el-corazon-tradicional-de-tokio)
+* Guía: *Sin nombre*
+  > Puede que lleven una bandera de **Bo Japón**
+* Hora: *22 oct 11:00*
+* Lugar de encuentro: [estatua](https://maps.app.goo.gl/8nQAaZvFhskEJfSF7) cercana a la estación *Kintetsu-Nara*
+* Instrucciones:
+  > El día de antes nos escribirán por WhatsApp para confirmar la visita
+
+* Si nos sobrase tiempo podemos ir a ver el templo 
 
 # 23 oct [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html)
 
