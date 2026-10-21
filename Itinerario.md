@@ -190,6 +190,6 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 # 26 oct Vuelta a Tokyo(?)
 > **Importante: planificar bien la compra de billetes. Es rara.**
 
-# 26/27 oct NRT MAD
+# 27/28 oct NRT MAD
 * Vuelo IB282 (asientos ?)
-* Salida a las 22:30 y llegada a las 05:45
+* Salida a las 22:30 del día 27 y llegada a las 05:45 del día 28
