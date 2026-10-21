@@ -171,7 +171,7 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 * Instrucciones:
   > El día de antes nos escribirán por WhatsApp para confirmar la visita
 
-* Si nos sobrase tiempo podemos ir a visitar algun punto de los siguientes que nos haya faltado ver:
+Si nos sobrase tiempo podemos ir a visitar algun punto de los siguientes que nos haya faltado ver:
 
 - Kintetsu Nara Station
 - Kofukuji Temple
