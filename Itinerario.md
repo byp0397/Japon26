@@ -171,7 +171,17 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 * Instrucciones:
   > El día de antes nos escribirán por WhatsApp para confirmar la visita
 
-* Si nos sobrase tiempo podemos ir a ver el templo 
+* Si nos sobrase tiempo podemos ir a visitar algun punto de los siguientes que nos haya faltado ver:
+
+- Kintetsu Nara Station
+- Kofukuji Temple
+- Nara National Museum (opcional)
+- Todaiji Temple
+- Nandaimon Gate
+- Daibutsuden (Great Buddha Hall)
+- Nigatsudo Temple
+- Nara Park (paseo por la colina al este del Daibutsuden)
+- Kasuga Taisha Shrine
 
 # 23 oct [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html)
 
