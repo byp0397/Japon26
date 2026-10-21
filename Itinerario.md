@@ -4,6 +4,7 @@
 * Sacar la tarjeta **[SUICA](https://www.jreast.co.jp/es/multi/pass/suica.html)**
   > Digital (para iPhone) y en tarjeta física (para Pedrito)
   > * Para comprar/recargar la tarjeta física **SUICA solo acepta yenes en efectivo.**
+  > * *Resultó ser mentira. Sí que aceptaba tarjeta en muchos lugares*
   > * No vale para subir a tren bala directamente
 
 ## Pendiente de clasificar
