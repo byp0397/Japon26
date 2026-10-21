@@ -150,6 +150,15 @@ No disponible: total en torno a 3500 yen pp (sin comida)
 * Instrucciones
   > Después de abrir la cerradura automática de la entrada al edificio en la primera planta con el código PIN «＊7777 呼出», dirígete a tu habitación en ascensor. Puedes abrir la cerradura electrónica de la entrada de tu habitación introduciendo el código PIN «111021✓».
 
+## Plan
+1. Dejar las maletas y dirigirnos a *Namba Station*
+2. Visitar *Nambayasaka Shrine*
+3. Visitar la calle *Doguyasuki* para comer/merendar
+   > Podemos comer en la siguiente parada que es *Hozenji Yokocho*
+4. Para el atardecer ver *Detombori*
+5. Después ir a *Shinsekai* desde  *Namba*
+6. Por último visitar *Nipponbashi* (ciudad del anime)
+
 # 22 oct [Nara](https://www.japan-guide.com/e/e4119_nara_full.html)
 
 # 23 oct [Eastern Kyoto](https://www.japan-guide.com/e/e3950_higashiyama_half.html)
